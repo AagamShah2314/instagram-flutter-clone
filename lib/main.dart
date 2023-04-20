@@ -20,7 +20,7 @@ void main() async {
         apiKey: "AIzaSyCZ-xrXqD5D19Snauto-Fx_nLD7PLrBXGM",
         appId: "1:585119731880:web:eca6e4b3c42a755cee329d",
         messagingSenderId: "585119731880",
-        projectId: "instagram-clone-4cea4",
+        projectId: "painbook-e9da3",
         storageBucket: 'instagram-clone-4cea4.appspot.com'
       ),
     );
